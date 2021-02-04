@@ -1,0 +1,32 @@
+.contactsBlock {
+    min-height: 50vh;
+    background-color: #85dcb8;
+    display: flex;
+    align-items: center;
+}
+
+.formContainer {
+    width: 80%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.formContainer form {
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+}
+
+.formContainer form input, .formContainer form textarea {
+    background-color: inherit;
+    padding: 1%;
+    margin: 1%;
+}
+
+.sendBtn {
+    width: 35%;
+    padding: 3%;
+    text-align: center;
+    align-self: center;
+}

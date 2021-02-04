@@ -3,7 +3,7 @@ import React from 'react';
 import styleContainer from "./../../common/styles/Container.module.css";
 import Skill from './skill/Skill';
 // @ts-ignore
-import styles from './skills.module.css'
+import styles from './Skills.module.css'
 const Skills = () => {
 return (
     <div className={styles.skillsBlock}>

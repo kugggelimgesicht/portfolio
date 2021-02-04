@@ -1,6 +1,6 @@
 import React from "react";
 // @ts-ignore
-import styles from "./main.module.css";
+import styles from "./Main.module.css";
 // @ts-ignore
 import styleContainer from "./../../common/styles/Container.module.css";
 const Main = () => {

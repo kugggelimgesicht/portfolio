@@ -1,6 +1,6 @@
 import React from 'react';
 // @ts-ignore
-import styles from './nav.module.css'
+import styles from './Nav.module.css'
 const Nav = () => {
 return (
     <div className={styles.nav}>
